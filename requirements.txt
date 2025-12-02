@@ -1,10 +1,21 @@
+# Google Gemini + ADK (Agents Framework)
 google-genai
 google-adk
+
+# Cloud SQL connector + MySQL driver
 cloud-sql-python-connector
 pymysql
+
+# Environment variable loader
 python-dotenv
+
+# Async + utilities
 aiohttp
+requests
+
+# Optional but recommended for debugging & formatting
 black
 flake8
+
+# Testing framework (optional)
 pytest
-requests
