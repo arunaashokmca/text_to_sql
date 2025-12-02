@@ -1,0 +1,10 @@
+google-genai
+google-adk
+cloud-sql-python-connector
+pymysql
+python-dotenv
+aiohttp
+black
+flake8
+pytest
+requests
